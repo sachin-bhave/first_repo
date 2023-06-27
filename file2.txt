@@ -1,0 +1,3 @@
+Hello,
+
+Install source tree. It is a git GUI interrface. Instead of git command we can use GUI for the same.
